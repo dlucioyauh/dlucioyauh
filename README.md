@@ -1,4 +1,4 @@
-### Hi there 👋
+### My King
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img1.gratispng.com/20180623/ku/kisspng-yeshua-hebrew-bible-paleo-hebrew-alphabet-5b2e871c853b00.7017553415297759005457.jpg">
@@ -19,9 +19,11 @@ I'm excited to continue learning, collaborate on challenging projects, and contr
 
 
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+| Rank | Languages   |
+|-----:|-------------|
+|     1| JavaScript  |
+|     2| Python      |
+|     3| Shell script|
+|     3| SQL         |
+|     3| PostgresSQL |
 

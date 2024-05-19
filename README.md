@@ -49,6 +49,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dlucioyauh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light" alt="GitHub Stats">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dlucioyauh&bg_color=ffe4c4&border_color=556b2f&title_color=2e8b57&text_color=d2691e" alt="Top Langs">
-</p>
+

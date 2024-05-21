@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/dlucioyauh"><img alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/douglaslucio/"><img alt="LinkedIn" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
 </p>
 
@@ -19,7 +20,9 @@
 
 <p align="center">
   <img alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Rafa-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </p>
 
@@ -27,6 +30,7 @@
 
 <p align="center">
   <img alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Rafa-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
 </p>
 
@@ -34,6 +38,7 @@
 
 <p align="center">
   <img alt="Rafa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Rafa-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
 </p>
 
@@ -49,4 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dlucioyauh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light" alt="GitHub Stats">
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dlucioyauh&bg_color=ffe4c4&border_color=556b2f&title_color=2e8b57&text_color=d2691e" alt="Top Langs">
+</p>

@@ -42,18 +42,36 @@
   <img alt="Rafa-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
 </p>
 
-<h2 align="center">My Roadmap:</h2>
 
-<p align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6611b2eada1671f98630bbcd?variant=dark" alt="roadmap.sh"></a>
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <h2 style="color: #E94D5F; background-color: transparent;">My Contributions</h2>
+    <a href="https://github.com/dlucioyauh/dio-lab-open-source">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlucioyauh&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB" alt="Repo Card">
+    </a>
+  </div>
+  
+  <div>
+    <h2>My Roadmap</h2>
+    <a href="https://roadmap.sh">
+      <img src="https://roadmap.sh/card/wide/6611b2eada1671f98630bbcd?variant=dark" alt="roadmap.sh">
+    </a>
+  </div>
+</div>
+
 
 <h2 align="center">My GitHub Stats:</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dlucioyauh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light" alt="GitHub Stats">
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dlucioyauh&show_icons=true&hide=contribs,prs&cache_seconds=86400&title_color=1e3a5f&text_color=d4af37&bg_color=00000000&border_color=d4af37" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dlucioyauh&title_color=1e3a5f&text_color=d4af37&bg_color=00000000&border_color=d4af37" alt="Top Langs" width="45%">
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dlucioyauh&bg_color=ffe4c4&border_color=556b2f&title_color=2e8b57&text_color=d2691e" alt="Top Langs">
-</p>
+
+
+
+
+
+
+
+

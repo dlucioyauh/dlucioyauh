@@ -47,6 +47,7 @@
   <div>
     <h2 style="color: #E94D5F; background-color: transparent;">My Contributions</h2>
     <a href="https://github.com/dlucioyauh/dio-lab-open-source">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dlucioyauh&theme=discord_old_blurple" alt="GitHub Profile Summary Card for dlucioyauh" style="max-width: 100%;">    
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlucioyauh&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB" alt="Repo Card">
     </a>
   </div>
@@ -59,14 +60,13 @@
   </div>
 </div>
 
-
 <h2 align="center">My GitHub Stats:</h2>
+
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=dlucioyauh&show_icons=true&hide=contribs,prs&cache_seconds=86400&title_color=1e3a5f&text_color=d4af37&bg_color=00000000&border_color=d4af37" alt="GitHub Stats" width="45%">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dlucioyauh&title_color=1e3a5f&text_color=d4af37&bg_color=00000000&border_color=d4af37" alt="Top Langs" width="45%">
 </div>
-
 
 
 

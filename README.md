@@ -37,7 +37,7 @@
 <h2 align="center">My Contributions</h2>
 <div align="center">
   <a href="https://github.com/dlucioyauh/dio-lab-open-source">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dlucioyauh&theme=discord_old_blurple" alt="GitHub Profile Summary Card for dlucioyauh" style="max-width: 100%;">    
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dlucioyauh&theme=discord_old_blurple" alt="GitHub Profile Summary Card for dlucioyauh" style="max-width: 80%;">    
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlucioyauh&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB" alt="Repo Card">
   </a>
 </div>

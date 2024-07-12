@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</div>
+
 <h2 align="center">My Yaudins brothers! 👋</h2>
 <p align="center">Hello, my name is Douglas Lucio, known as dlucioyauh. I am on the path to becoming a developer, with a passion for creating solutions for both front-end and back-end.</p>
 <p align="center">And I am embarking on a development journey to create innovative projects and contribute to the advancement of technology. 🚀 Always fascinated by the infinite possibilities of the human mind and AI's, I'm ready to face the challenges that the future holds for us! 💡</p>

@@ -3,6 +3,7 @@
 <p align="center">And I am embarking on a development journey to create innovative projects and contribute to the advancement of technology. 🚀 Always fascinated by the infinite possibilities of the human mind and AI's, I'm ready to face the challenges that the future holds for us! 💡</p>
 <p align="center">Furthermore, I am committed to creating intuitive and functional user experiences combined with behind-the-scenes robustness and efficiency.</p>
 <p align="center">I'm excited to continue learning, collaborate on challenging projects, and contribute to the world of technology as a developer. If you share this passion or need a partner for your projects, I'm ready to work together!</p>
+
 <h3 align="center">My Tech Stack:</h3>
 <table align="center">
   <tr>
@@ -34,6 +35,7 @@
     </td>
   </tr>
 </table>
+
 <h2 align="center">My Contributions</h2>
 <div align="center">
   <a href="https://github.com/dlucioyauh/dio-lab-open-source">
@@ -41,15 +43,20 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlucioyauh&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB" alt="Repo Card">
   </a>
 </div>
+
 <h2 align="center">My Roadmap</h2>
 <div align="center">
   <a href="https://roadmap.sh">
     <img src="https://roadmap.sh/card/wide/6611b2eada1671f98630bbcd?variant=dark" alt="roadmap.sh">
   </a>
 </div>
+
 <h2 align="center">My GitHub Stats:</h2>
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dlucioyauh&show_icons=true&hide=contribs,prs&cache_seconds=86400&title_color=1e3a5f&text_color=d4af37&bg_color=00000000&border_color=d4af37" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dlucioyauh&title_color=1e3a5f&text_color=d4af37&bg_color=00000000&border_color=d4af37" alt="Top Langs" width="25%">
+  
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dlucioyauh&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github" alt="GitHub Stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dlucioyauh&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&" alt="Top Langs">
 </div>

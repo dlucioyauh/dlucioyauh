@@ -1,6 +1,11 @@
 <div align="center">
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </div>
+<p align="right">
+    <a href="README_EN.md">
+        <img src="https://img.shields.io/badge/Translate%20to-English-blue" alt="Translate to English">
+    </a>
+</p>
 
 <h2 align="center">My Yaudins brothers! 👋</h2>
 <p align="center">Hello, my name is Douglas Lucio, known as dlucioyauh. I am on the path to becoming a developer, with a passion for creating solutions for both front-end and back-end.</p>

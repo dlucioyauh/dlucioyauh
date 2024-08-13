@@ -2,8 +2,8 @@
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </div>
 <p align="right">
-    <a href="README_EN.md">
-        <img src="https://img.shields.io/badge/Translate%20to-English-blue" alt="Translate to English">
+    <a href="README.md">
+        <img src="https://img.shields.io/badge/Traduzir%20para-Português-green" alt="Traduzir para Português">
     </a>
 </p>
 

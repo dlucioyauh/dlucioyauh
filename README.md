@@ -7,11 +7,7 @@
     </a>
 </p>
 
-<h2 align="center">Meus irmãos Yaudins! 👋</h2>
-<p align="center">Olá, meu nome é Douglas Lucio, conhecido como dlucioyauh. Estou no caminho para me tornar um desenvolvedor, com uma paixão por criar soluções tanto para o front-end quanto para o back-end.</p>
-<p align="center">E estou embarcando em uma jornada de desenvolvimento para criar projetos inovadores e contribuir para o avanço da tecnologia. 🚀 Sempre fascinado pelas infinitas possibilidades da mente humana e da IA, estou pronto para enfrentar os desafios que o futuro nos reserva! 💡</p>
-<p align="center">Além disso, estou comprometido em criar experiências de usuário intuitivas e funcionais, combinadas com robustez e eficiência nos bastidores.</p>
-<p align="center">Estou animado para continuar aprendendo, colaborar em projetos desafiadores e contribuir para o mundo da tecnologia como desenvolvedor. Se você compartilha essa paixão ou precisa de um parceiro para seus projetos, estou pronto para trabalharmos juntos!</p>
+<h2 align="center">Olá, eu sou Douglas Lucio! 👋</h2> <p align="center">Desenvolvedor em formação com paixão por criar soluções front-end e back-end.</p> <p align="center">Estou focado em aprender e colaborar em projetos inovadores, sempre buscando aprimorar a experiência do usuário e a robustez do código. 🚀</p> <p align="center">Pronto para enfrentar os desafios da tecnologia e contribuir com o futuro! 💡</p>
 
 <h3 align="center">Minha Stack Tecnológica:</h3>
 <table align="center">
@@ -54,12 +50,6 @@
   </a>
 </div>
 
-<h2 align="center">Meu Roteiro</h2>
-<div align="center">
-  <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/wide/6611b2eada1671f98630bbcd?variant=dark" alt="roadmap.sh">
-  </a>
-</div>
 
 <h2 align="center">Minhas Estatísticas no GitHub:</h2>
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">

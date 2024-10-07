@@ -7,11 +7,7 @@
     </a>
 </p>
 
-<h2 align="center">My Yaudins brothers! 👋</h2>
-<p align="center">Hello, my name is Douglas Lucio, known as dlucioyauh. I am on the path to becoming a developer, with a passion for creating solutions for both front-end and back-end.</p>
-<p align="center">And I am embarking on a development journey to create innovative projects and contribute to the advancement of technology. 🚀 Always fascinated by the infinite possibilities of the human mind and AI's, I'm ready to face the challenges that the future holds for us! 💡</p>
-<p align="center">Furthermore, I am committed to creating intuitive and functional user experiences combined with behind-the-scenes robustness and efficiency.</p>
-<p align="center">I'm excited to continue learning, collaborate on challenging projects, and contribute to the world of technology as a developer. If you share this passion or need a partner for your projects, I'm ready to work together!</p>
+<p align="center">Hello, my name is Douglas Lucio 👋<p align="center">Developer passionate about creating front-end and back-end solutions.</p> <p align="center">
 
 <h3 align="center">My Tech Stack:</h3>
 <table align="center">
@@ -52,14 +48,6 @@
   <a>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dlucioyauh&theme=discord_old_blurple" alt="GitHub Profile Summary Card for dlucioyauh" style="max-width: 80%;">
   </a>
-</div>
-
-<h2 align="center">My Roadmap</h2>
-<div align="center">
-  <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/wide/6611b2eada1671f98630bbcd?variant=dark" alt="roadmap.sh">
-  </a>
-</div>
 
 <h2 align="center">My GitHub Stats:</h2>
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">

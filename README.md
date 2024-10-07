@@ -7,7 +7,7 @@
     </a>
 </p>
 
-<h2 align="center">Olá, eu sou Douglas Lucio! 👋</h2> <p align="center">Desenvolvedor em formação com paixão por criar soluções front-end e back-end.</p> <p align="center">Estou focado em aprender e colaborar em projetos inovadores, sempre buscando aprimorar a experiência do usuário e a robustez do código. 🚀</p> <p align="center">Pronto para enfrentar os desafios da tecnologia e contribuir com o futuro! 💡</p>
+<h2 align="center">Olá, eu sou Douglas Lucio! 👋</h2> <p align="center">Desenvolvedor apaixonado por criar soluções front-end e back-end.</p> <p align="center">
 
 <h3 align="center">Minha Stack Tecnológica:</h3>
 <table align="center">

@@ -59,9 +59,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dlucioyauh&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github" alt="GitHub Stats">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dlucioyauh&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&" alt="Top Langs">
 </div>
-<div align="center">
-    <br>
-        <p align="centre"><b>Contador de Visitantes</b> </p>  
-        <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dlucioyauh}/count.svg" /> </p> 
-    <br>
-</div>
+

@@ -50,13 +50,12 @@
   </a>
 </div>
 
-
 <h2 align="center">Minhas Estatísticas no GitHub:</h2>
 <div align="center">
   <a href="https://github.com/dlucioyauh">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=dlucioyauh&theme=transparent&bg_color=353D41&border_color=123547&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&title_color=EB9326&text_color=FFF&hide_title=true&rank_icon=github" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=dlucioyauh&theme=transparent&bg_color=353D41&border_color=123547&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&title_color=EB9326&text_color=FFF&hide_title=true&rank_icon=github" />
   </a>
   <a href="https://github.com/dlucioyauh">
-    <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dlucioyauh&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF" alt="Top Langs" />
+    <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dlucioyauh&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF" alt="Top Langs" />
   </a>
 </div>

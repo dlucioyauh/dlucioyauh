@@ -43,23 +43,20 @@
   </tr>
 </table>
 
-<h2 align="center">My Contributions</h2>
+<h2 align="center">Minhas Contribuições</h2>
 <div align="center">
   <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dlucioyauh&theme=discord_old_blurple" alt="GitHub Profile Summary Card for dlucioyauh" style="max-width: 80%;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dlucioyauh&theme=discord_old_blurple" alt="GitHub Profile Summary Card for dlucioyauh" style="max-width: 90%;">
   </a>
-
-<h2 align="center">My GitHub Stats:</h2>
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
 </div>
 
+<h2 align="center">Minhas Estatísticas no GitHub:</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dlucioyauh&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github" alt="GitHub Stats">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dlucioyauh&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&" alt="Top Langs">
+  <a href="https://github.com/dlucioyauh">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=dlucioyauh&theme=transparent&bg_color=353D41&border_color=123547&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&title_color=EB9326&text_color=FFF&hide_title=true&rank_icon=github" />
+  </a>
+  <a href="https://github.com/dlucioyauh">
+    <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dlucioyauh&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF" alt="Top Langs" />
+  </a>
 </div>
-<div align="center">
-    <br>
-        <p align="centre"><b>Visitors Count</b> </p>  
-        <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dlucioyauh}/count.svg" /> </p> 
-    <br>
-</div>
+

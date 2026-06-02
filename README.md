@@ -48,13 +48,6 @@ const player = {
 
 ---
 
-## 📊 Player Stats (Estatísticas)
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dlucioyauh&theme=transparent&bg_color=353D41&border_color=EB9326&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&title_color=EB9326&text_color=FFF&icon_color=EB9326&rank_icon=github" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlucioyauh&layout=donut&bg_color=353D41&border_color=EB9326&title_color=EB9326&text_color=FFF" alt="Top Languages" />
-</div>
-
 <br/>
 
 <div align="center">

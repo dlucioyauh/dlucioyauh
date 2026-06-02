@@ -1,62 +1,82 @@
 <div align="center">
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=EB9326&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Douglas+Lucio!+%F0%9F%91%8B;Full+Stack+Developer;Passionate+about+technology+%F0%9F%9A%80;Creator+of+IonFinance+%F0%9F%93%8A)](https://git.io/typing-svg)
+
+<p>A developer passionate about building <strong>full-stack web solutions</strong>, from database architecture to user interface, focusing on performance and user experience.</p>
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas%20Lucio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglaslucio/)
+[![GitHub](https://img.shields.io/badge/GitHub-dlucioyauh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dlucioyauh)
+[![Profile Views](https://komarev.com/ghpvc/?username=dlucioyauh&style=for-the-badge&color=EB9326&label=VIEWS)](https://github.com/dlucioyauh)
+
 </div>
-<p align="right">
+
+---
+
+## 🕹️ Character Sheet
+
+```typescript
+const player = {
+  name:        "Douglas Lucio",
+  class:       "Full Stack Developer",
+  level:       40, // Level up! 🚀
+  origin:      "Brazil 🇧🇷",
+  guild:       "IonFinance (Founder) 📊",
+  specialty:   ["SaaS Architecture", "Data Security", "RESTful APIs"],
+  traits:      ["Problem Solver", "Continuous Learner", "Clean Code Enthusiast"],
+  achievements: {
+    soloSaaS:  "Built a complete financial ecosystem entirely from scratch 👑"
+  }
+};
+```
+---
+
+## ⚔️ Equipment Inventory (Tech Stack)
+
+### 🗡️ Main Hand (Back-end & Core)
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/TypeORM-262627?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+
+### 🛡️ Off Hand (Front-end & UI)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/> <img src="https://img.shields.io/badge/Recharts-1F2937?style=for-the-badge&logo=recharts&logoColor=white" alt="Recharts"/> <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+
+### 🔮 Mana Stones (Databases)
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+### ⚙️ Utility Belts (DevOps & Tools)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
+
+---
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dlucioyauh&theme=dark&background=353D41&border=EB9326&ring=EB9326&fire=FF6B35&currStreakLabel=EB9326" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📈 Combat Log (Activity Graph)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dlucioyauh&bg_color=353D41&color=EB9326&line=EB9326&point=FFFFFF&area=true&area_color=EB932640&hide_border=false&border_color=EB9326" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dlucioyauh&theme=discord_old_blurple" alt="GitHub Profile Summary" style="max-width: 90%;">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+  <br/><br/>
+  ⭐ If any project helped you, consider leaving a star! ⭐
+  <p>
     <a href="README.md">
-        <img src="https://img.shields.io/badge/Traduzir%20para-Português-green" alt="Traduzir para Português">
+      <img src="https://img.shields.io/badge/🇧🇷%20Leia%20em-Português-green?style=for-the-badge" alt="Leia em Português">
     </a>
-</p>
-
-<p align="center">Hello, my name is Douglas Lucio 👋<p align="center">Developer passionate about creating front-end and back-end solutions.</p> <p align="center">
-
-<h3 align="center">My Tech Stack:</h3>
-<table align="center">
-  <tr>
-    <th>Where to find me:</th>
-    <th>🌐 Front-end:</th>
-    <th>🐍 Back-end:</th>
-    <th>🛠️ Tools:</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/dlucioyauh"><img alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>
-      <a href="https://www.linkedin.com/in/douglaslucio/"><img alt="LinkedIn" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
-    </td>
-    <td align="center">
-      <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    </td>
-    <td align="center">
-      <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-      <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-      <img alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-      <img alt="mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-    </td>
-    <td align="center">
-      <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-      <img alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-      <img alt="IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-      <img alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">Minhas Contribuições</h2>
-<div align="center">
-  <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dlucioyauh&theme=discord_old_blurple" alt="GitHub Profile Summary Card for dlucioyauh" style="max-width: 90%;">
-  </a>
+  </p>
 </div>
-
-<h2 align="center">Minhas Estatísticas no GitHub:</h2>
-<div align="center">
-  <a href="https://github.com/dlucioyauh">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=dlucioyauh&theme=transparent&bg_color=353D41&border_color=123547&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&title_color=EB9326&text_color=FFF&hide_title=true&rank_icon=github" />
-  </a>
-  <a href="https://github.com/dlucioyauh">
-    <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dlucioyauh&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF" alt="Top Langs" />
-  </a>
-</div>
-

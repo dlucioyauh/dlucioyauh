@@ -20,7 +20,7 @@
 const player = {
   name:        "Douglas Lucio",
   class:       "Full Stack Developer",
-  level:       38, // Baseado no ano de nascimento 1986 🚀
+  level:       40, // Baseado no ano de nascimento 1986 🚀
   origin:      "Brasil 🇧🇷",
   guild:       "IonFinance (Founder) 📊",
   specialty:   ["SaaS Architecture", "Data Security", "RESTful APIs"],
